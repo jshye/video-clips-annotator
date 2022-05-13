@@ -1,7 +1,7 @@
 # Video Clips Labeler
 __Video Clips Labeler__ is a PyQt GUI application for labeling split parts of a video.
 <p align='center'>
-    <img src='./demo/gui_demo.png' width='400px'/>
+    <img src='./demo/gui_demo.png' width='600px'/>
 </p>
 
 
@@ -38,7 +38,7 @@ __Windows__ (TBU)
 → or use avi files as inputs
 <br><br/>
 
-### Convert label_video_clips.py to APP/EXE using Pyinstaller
+### Convert _label_video_clips.py_ to APP/EXE using Pyinstaller
 ```
 # example for mac users
 pip install pyinstaller
